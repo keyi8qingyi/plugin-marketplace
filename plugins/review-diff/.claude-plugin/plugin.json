@@ -1,0 +1,6 @@
+{
+  "name": "review-diff",
+  "displayName": "Diff Review",
+  "version": "0.1.0",
+  "description": "Review Git changes for bugs, regressions, and gaps in verification."
+}

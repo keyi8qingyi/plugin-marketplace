@@ -1,0 +1,10 @@
+{
+  "name": "playwright-setup",
+  "version": "0.1.0",
+  "description": "Guide installation of Microsoft's Playwright MCP server for browser testing.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Playwright MCP Setup",
+    "shortDescription": "Guide installation of Microsoft's Playwright MCP server for browser testing."
+  }
+}

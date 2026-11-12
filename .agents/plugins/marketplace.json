@@ -1,0 +1,104 @@
+{
+  "name": "baton-market",
+  "interface": {
+    "displayName": "Baton Market"
+  },
+  "plugins": [
+    {
+      "name": "review-diff",
+      "source": {
+        "source": "local",
+        "path": "./plugins/review-diff"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "trace-bug",
+      "source": {
+        "source": "local",
+        "path": "./plugins/trace-bug"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "draft-release-notes",
+      "source": {
+        "source": "local",
+        "path": "./plugins/draft-release-notes"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "context7-setup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/context7-setup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "playwright-setup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/playwright-setup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "frontend-design-setup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/frontend-design-setup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "openai-developers-setup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/openai-developers-setup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    },
+    {
+      "name": "layerfs-setup",
+      "source": {
+        "source": "local",
+        "path": "./plugins/layerfs-setup"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Developer Tools"
+    }
+  ]
+}

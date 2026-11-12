@@ -1,0 +1,10 @@
+{
+  "name": "context7-setup",
+  "version": "0.1.0",
+  "description": "Guide installation of Upstash Context7 for version-specific library documentation.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Context7 Setup",
+    "shortDescription": "Guide installation of Upstash Context7 for version-specific library documentation."
+  }
+}

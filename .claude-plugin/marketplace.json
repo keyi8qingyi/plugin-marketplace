@@ -1,0 +1,48 @@
+{
+  "name": "baton-market",
+  "owner": {
+    "name": "Baton Market"
+  },
+  "plugins": [
+    {
+      "name": "review-diff",
+      "source": "./plugins/review-diff",
+      "description": "Review Git changes for bugs, regressions, and gaps in verification."
+    },
+    {
+      "name": "trace-bug",
+      "source": "./plugins/trace-bug",
+      "description": "Narrow down a failure by testing competing hypotheses against evidence."
+    },
+    {
+      "name": "draft-release-notes",
+      "source": "./plugins/draft-release-notes",
+      "description": "Draft release notes that explain user impact and required upgrade steps."
+    },
+    {
+      "name": "context7-setup",
+      "source": "./plugins/context7-setup",
+      "description": "Guide installation of Upstash Context7 for version-specific library documentation."
+    },
+    {
+      "name": "playwright-setup",
+      "source": "./plugins/playwright-setup",
+      "description": "Guide installation of Microsoft's Playwright MCP server for browser testing."
+    },
+    {
+      "name": "frontend-design-setup",
+      "source": "./plugins/frontend-design-setup",
+      "description": "Guide installation of Anthropic's Frontend Design plugin for Claude Code."
+    },
+    {
+      "name": "openai-developers-setup",
+      "source": "./plugins/openai-developers-setup",
+      "description": "Guide installation of the official OpenAI Developers plugin for API and SDK work."
+    },
+    {
+      "name": "layerfs-setup",
+      "source": "./plugins/layerfs-setup",
+      "description": "Find and use LayerFS in the current environment through an existing image, a source build, or the JavaScript SDK."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "frontend-design-setup",
+  "version": "0.1.0",
+  "description": "Guide installation of Anthropic's Frontend Design plugin for Claude Code.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Frontend Design Setup",
+    "shortDescription": "Guide installation of Anthropic's Frontend Design plugin for Claude Code."
+  }
+}

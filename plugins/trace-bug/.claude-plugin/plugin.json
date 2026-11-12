@@ -1,0 +1,6 @@
+{
+  "name": "trace-bug",
+  "displayName": "Bug Investigation",
+  "version": "0.1.0",
+  "description": "Narrow down a failure by testing competing hypotheses against evidence."
+}

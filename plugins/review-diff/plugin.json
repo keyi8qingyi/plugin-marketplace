@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "review-diff",
+  "version": "0.1.0",
+  "description": "Review Git changes for bugs, regressions, and gaps in verification."
+}

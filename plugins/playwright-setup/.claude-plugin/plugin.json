@@ -1,0 +1,6 @@
+{
+  "name": "playwright-setup",
+  "version": "0.1.0",
+  "description": "Guide installation of Microsoft's Playwright MCP server for browser testing.",
+  "displayName": "Playwright MCP Setup"
+}

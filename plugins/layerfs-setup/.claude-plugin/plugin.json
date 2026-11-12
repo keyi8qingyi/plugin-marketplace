@@ -1,0 +1,6 @@
+{
+  "name": "layerfs-setup",
+  "version": "0.2.0",
+  "description": "Find and use LayerFS in the current environment through an existing image, a source build, or the JavaScript SDK.",
+  "displayName": "LayerFS Setup"
+}

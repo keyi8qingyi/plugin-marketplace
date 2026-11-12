@@ -1,0 +1,6 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "trace-bug",
+  "version": "0.1.0",
+  "description": "Narrow down a failure by testing competing hypotheses against evidence."
+}

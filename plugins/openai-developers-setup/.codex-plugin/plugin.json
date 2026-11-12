@@ -1,0 +1,10 @@
+{
+  "name": "openai-developers-setup",
+  "version": "0.1.0",
+  "description": "Guide installation of the official OpenAI Developers plugin for API and SDK work.",
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "OpenAI Developers Setup",
+    "shortDescription": "Guide installation of the official OpenAI Developers plugin for API and SDK work."
+  }
+}
